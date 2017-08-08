@@ -11,7 +11,7 @@
     {
       "type": "http",
       "direction": "out",
-      "name": "$return"
+      "name": "res"
     }
   ],
   "disabled": false
